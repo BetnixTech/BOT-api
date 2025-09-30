@@ -1,0 +1,1 @@
+class Player{ constructor(name){ this.name=name; this.inventory=[]; } } module.exports={Player};

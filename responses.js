@@ -1,0 +1,1 @@
+function response(msg){ return 'Response: '+msg; } module.exports={response};

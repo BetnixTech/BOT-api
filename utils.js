@@ -1,0 +1,1 @@
+function helper(){ return 'JS Helper'; } module.exports={helper};

@@ -1,0 +1,1 @@
+function task(name){ console.log('Running task: '+name); } module.exports={task};

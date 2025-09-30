@@ -1,0 +1,1 @@
+function sendEvent(e){ console.log('Sent event: '+e); } module.exports={sendEvent};
